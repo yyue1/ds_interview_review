@@ -1,2 +1,2 @@
-# ds_interview_review
+# data_science_python_preparation/review/cheatsheet
 This is a code review for data scientist interviews, including topics of data manipulation, data analysis, statistics, and machine leaning. 
